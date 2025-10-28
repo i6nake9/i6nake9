@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Artem Bielov's GitHub Page!.</h1>
 <h3 align="center">Hi there! My name is Artem Bielov, and this is my GitHub page. Here, you'll find all sorts of projects that I've worked on over the years, from simple scripts to complex applications</h3>
 <h4 align="center">About Me
-I'm a Full-Stack developer/engineer based in Ukraine/Poland, and I've been working in the field for ~2 years. In my free time, I love to code and explore new technologies</h4>
+I'm a Full-Stack developer/engineer based in Ukraine/Poland, and I've been working in the field for ~6 years. In my free time, I love to code and explore new technologies</h4>
 <h4 align="center">"If opportunities do not knock, build a door." – Unknown</h4>
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=i6nake9&label=Profile%20views&color=0e75b6&style=flat" alt="i6nake9" /> </p>
