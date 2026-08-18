@@ -1,12 +1,12 @@
 <!--
-  Profile README: DevOps / Platform Engineer edition
+  Profile README: DevOps / Platform Engineer — cinematic terminal edition
   Replace @i6nake9 links only if your GitHub username changes.
-  The <details> terminal, animated SVG, and Mermaid diagrams are GitHub-safe Markdown/HTML.
+  All visuals are GitHub-safe Markdown/HTML.
 -->
 
 <div align="center">
 
-<!-- HERO: custom animated terminal-like SVG, rendered directly by GitHub -->
+<!-- HERO: animated terminal-like headline -->
 <a href="https://github.com/i6nake9">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=800&color=35D0BA&center=true&vCenter=true&width=900&height=75&lines=ARTEM+BIELOV+%E2%80%94+DEVOPS+%2F+PLATFORM+ENGINEER;from+git+push+to+reliable+production;automate+the+system.+own+the+outcome." alt="Animated headline" />
 </a>
