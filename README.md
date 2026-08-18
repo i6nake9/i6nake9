@@ -1,5 +1,5 @@
 <!--
-  Profile README: DevOps / Platform Engineer — cinematic terminal edition
+  Profile README: DevOps / Platform Engineer — ultimate cinematic terminal edition
   Replace @i6nake9 links only if your GitHub username changes.
   All visuals are GitHub-safe Markdown/HTML.
 -->
@@ -111,11 +111,13 @@ flowchart LR
 ### ☁️ Platform & Ops
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,docker,githubactions,nginx,gcp,ubuntu,bash,powershell&theme=dark" alt="Linux Docker GitHub Actions Nginx Google Cloud Ubuntu Bash PowerShell" />
+<img src="https://skillicons.dev/icons?i=linux,docker,githubactions,nginx,gcp,ubuntu,bash,powershell,git,ansible,terraform,aws,azure,kubernetes&theme=dark" alt="Platform & Ops stack" />
 </p>
 
 `Linux` `Docker` `CI/CD` `Nginx`  
-`Cloud` `Bash` `PowerShell` `Git`
+`Cloud` `Bash` `PowerShell` `Git`  
+`Ansible` `Terraform` `AWS` `Azure`  
+`Kubernetes` `Helm` `Prometheus` `Grafana`
 
 </td>
 <td width="33%" valign="top">
@@ -123,11 +125,13 @@ flowchart LR
 ### 🧠 Services & Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,rust,postgres,mysql,redis,mongodb&theme=dark" alt="Node.js NestJS TypeScript Rust PostgreSQL MySQL Redis MongoDB" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,rust,postgres,mysql,redis,mongodb,kafka,elasticsearch,go,python,java,cpp&theme=dark" alt="Services & Data stack" />
 </p>
 
 `Node.js` `NestJS` `TypeScript`  
-`Rust` `PostgreSQL` `Redis`
+`Rust` `Go` `Python` `Java` `C++`  
+`PostgreSQL` `MySQL` `Redis`  
+`MongoDB` `Kafka` `Elasticsearch`
 
 </td>
 <td width="33%" valign="top">
@@ -135,11 +139,56 @@ flowchart LR
 ### 🎨 Product Layer
 
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,js,tailwind,shopify,figma&theme=dark" alt="Next.js React JavaScript Tailwind Shopify Figma" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,js,tailwind,shopify,figma,vue,nuxt,angular,svelte,graphql,prisma,webpack,vite&theme=dark" alt="Product Layer stack" />
 </p>
 
 `Next.js` `React` `Shopify`  
-`Tailwind` `Headless commerce`
+`Tailwind` `Headless commerce`  
+`Vue` `Nuxt` `Angular` `Svelte`  
+`GraphQL` `Prisma` `Webpack` `Vite`
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### 🧪 Testing & Quality
+
+<p>
+<img src="https://skillicons.dev/icons?i=jest,mocha,cypress,playwright,eslint,prettier,sonarqube&theme=dark" alt="Testing & Quality stack" />
+</p>
+
+`Jest` `Mocha` `Cypress`  
+`Playwright` `ESLint` `Prettier`  
+`SonarQube` `Vitest`
+
+</td>
+<td width="33%" valign="top">
+
+### 🛠️ Tooling & Dev Experience
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,neovim,tmux,ssh,make,cmake,gradle,maven,npm,yarn,pnpm,postman,swagger&theme=dark" alt="Tooling & Dev Experience stack" />
+</p>
+
+`VS Code` `Neovim` `tmux` `SSH`  
+`Make` `CMake` `Gradle` `Maven`  
+`npm` `yarn` `pnpm`  
+`Postman` `Swagger`
+
+</td>
+<td width="33%" valign="top">
+
+### 📦 Storage & Messaging
+
+<p>
+<img src="https://skillicons.dev/icons?i=redis,memcached,rabbitmq,kafka,activemq,celery,sidekiq,elasticsearch,logstash,kibana&theme=dark" alt="Storage & Messaging stack" />
+</p>
+
+`Redis` `Memcached`  
+`RabbitMQ` `Kafka` `ActiveMQ`  
+`Celery` `Sidekiq`  
+`Elasticsearch` `Logstash` `Kibana`
 
 </td>
 </tr>
